@@ -81,6 +81,9 @@ This project analyzes Amazon sales data using Python and Excel. The objective is
 - Customer Purchase Behavior
 - Loss-Making Orders
 
+Dashboard Preview
+<img width="959" height="586" alt="Screenshot 2026-06-02 173253" src="https://github.com/user-attachments/assets/90d2b244-29ec-4a88-b57f-0693de14dfd1" />
+
 
 ## Future Improvements
 
